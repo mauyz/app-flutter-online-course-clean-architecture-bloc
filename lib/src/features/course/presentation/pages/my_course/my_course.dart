@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:online_course/core/utils/dummy_data.dart';
-import 'package:online_course/src/features/course/pesentation/pages/my_course/widgets/my_course_appbar.dart';
-import 'package:online_course/src/features/course/pesentation/pages/my_course/widgets/my_course_complete_course_list.dart';
-import 'package:online_course/src/features/course/pesentation/pages/my_course/widgets/my_course_progress_course_list.dart';
+import 'package:online_course/src/features/course/presentation/pages/my_course/widgets/my_course_appbar.dart';
+import 'package:online_course/src/features/course/presentation/pages/my_course/widgets/my_course_complete_course_list.dart';
+import 'package:online_course/src/features/course/presentation/pages/my_course/widgets/my_course_progress_course_list.dart';
 import 'package:online_course/src/theme/app_color.dart';
 
 class MyCoursePage extends StatefulWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:online_course/core/utils/dummy_data.dart';
-import 'package:online_course/src/features/course/pesentation/pages/course_detail/widgets/course_detail_lesson_list.dart';
+import 'package:online_course/src/features/course/presentation/pages/course_detail/widgets/course_detail_lesson_list.dart';
 import 'package:online_course/src/theme/app_color.dart';
 
 class CourseDetailTabBar extends StatefulWidget {

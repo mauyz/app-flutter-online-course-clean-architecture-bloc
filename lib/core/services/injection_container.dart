@@ -5,9 +5,9 @@ import 'package:online_course/src/features/course/domain/repositories/course_rep
 import 'package:online_course/src/features/course/domain/usecases/get_course.dart';
 import 'package:online_course/src/features/course/domain/usecases/get_feature_course.dart';
 import 'package:online_course/src/features/course/domain/usecases/get_recommend_course.dart';
-import 'package:online_course/src/features/course/pesentation/bloc/explore/course_bloc.dart';
-import 'package:online_course/src/features/course/pesentation/bloc/feature/feature_course_bloc.dart';
-import 'package:online_course/src/features/course/pesentation/bloc/recommend/recommend_course_bloc.dart';
+import 'package:online_course/src/features/course/presentation/bloc/explore/course_bloc.dart';
+import 'package:online_course/src/features/course/presentation/bloc/feature/feature_course_bloc.dart';
+import 'package:online_course/src/features/course/presentation/bloc/recommend/recommend_course_bloc.dart';
 
 final locator = GetIt.instance;
 

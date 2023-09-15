@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:online_course/core/utils/dummy_data.dart';
-import 'package:online_course/src/features/course/pesentation/pages/home/widgets/home_appbar.dart';
-import 'package:online_course/src/features/course/pesentation/pages/home/widgets/home_category.dart';
-import 'package:online_course/src/features/course/pesentation/pages/home/widgets/home_feature_block.dart';
-import 'package:online_course/src/features/course/pesentation/pages/home/widgets/home_recommend_block.dart';
+import 'package:online_course/src/features/course/presentation/pages/home/widgets/home_appbar.dart';
+import 'package:online_course/src/features/course/presentation/pages/home/widgets/home_category.dart';
+import 'package:online_course/src/features/course/presentation/pages/home/widgets/home_feature_block.dart';
+import 'package:online_course/src/features/course/presentation/pages/home/widgets/home_recommend_block.dart';
 import 'package:online_course/src/theme/app_color.dart';
 
 class HomePage extends StatefulWidget {

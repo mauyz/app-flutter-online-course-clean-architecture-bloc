@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:online_course/core/utils/app_navigate.dart';
 import 'package:online_course/core/utils/app_util.dart';
-import 'package:online_course/src/features/course/pesentation/bloc/recommend/recommend_course_bloc.dart';
-import 'package:online_course/src/features/course/pesentation/pages/course_detail/course_detail.dart';
+import 'package:online_course/src/features/course/presentation/bloc/recommend/recommend_course_bloc.dart';
+import 'package:online_course/src/features/course/presentation/pages/course_detail/course_detail.dart';
 import 'package:online_course/src/widgets/custom_progress_indicator.dart';
-import 'package:online_course/src/features/course/pesentation/pages/home/widgets/recommend_item.dart';
+import 'package:online_course/src/features/course/presentation/pages/home/widgets/recommend_item.dart';
 import 'package:online_course/src/theme/app_color.dart';
 
 class HomeRecommendBlcok extends StatefulWidget {

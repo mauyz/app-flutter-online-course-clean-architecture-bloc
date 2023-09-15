@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:online_course/src/features/course/pesentation/pages/explore/widgets/explore_appbar.dart';
-import 'package:online_course/src/features/course/pesentation/pages/explore/widgets/explore_category.dart';
-import 'package:online_course/src/features/course/pesentation/pages/explore/widgets/explore_course_list.dart';
-import 'package:online_course/src/features/course/pesentation/pages/explore/widgets/explore_search_block.dart';
+import 'package:online_course/src/features/course/presentation/pages/explore/widgets/explore_appbar.dart';
+import 'package:online_course/src/features/course/presentation/pages/explore/widgets/explore_category.dart';
+import 'package:online_course/src/features/course/presentation/pages/explore/widgets/explore_course_list.dart';
+import 'package:online_course/src/features/course/presentation/pages/explore/widgets/explore_search_block.dart';
 import 'package:online_course/src/theme/app_color.dart';
 
 class ExplorePage extends StatelessWidget {

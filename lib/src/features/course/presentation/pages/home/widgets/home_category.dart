@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:online_course/src/features/course/pesentation/pages/home/widgets/category_box.dart';
+import 'package:online_course/src/features/course/presentation/pages/home/widgets/category_box.dart';
 
 class HomeCategory extends StatelessWidget {
   const HomeCategory({required this.categories, super.key});

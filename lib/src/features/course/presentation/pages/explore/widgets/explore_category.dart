@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:online_course/core/utils/dummy_data.dart';
-import 'package:online_course/src/features/course/pesentation/pages/explore/widgets/category_item.dart';
+import 'package:online_course/src/features/course/presentation/pages/explore/widgets/category_item.dart';
 
 class ExploreCategory extends StatefulWidget {
   const ExploreCategory({super.key});

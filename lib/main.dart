@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:online_course/core/services/injection_container.dart';
-import 'package:online_course/src/features/course/pesentation/bloc/explore/course_bloc.dart';
-import 'package:online_course/src/features/course/pesentation/bloc/feature/feature_course_bloc.dart';
-import 'package:online_course/src/features/course/pesentation/bloc/recommend/recommend_course_bloc.dart';
+import 'package:online_course/src/features/course/presentation/bloc/explore/course_bloc.dart';
+import 'package:online_course/src/features/course/presentation/bloc/feature/feature_course_bloc.dart';
+import 'package:online_course/src/features/course/presentation/bloc/recommend/recommend_course_bloc.dart';
 import 'package:online_course/src/root_app.dart';
 import 'src/theme/app_color.dart';
 
